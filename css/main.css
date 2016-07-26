@@ -4,3 +4,8 @@ h1 {
 h2 {
     font-size: 20px;
 }
+
+.logo {
+    width: 150px;
+    border: 1px solid #be0026;
+}
