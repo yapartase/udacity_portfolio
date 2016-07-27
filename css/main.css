@@ -12,6 +12,10 @@ hr {
     background: #333;
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
+.container {
+    width: auto;
+    max-width: 1100px;
+}
 #logo_container {
     margin-top: 26px;
 }
