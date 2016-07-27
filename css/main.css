@@ -13,13 +13,13 @@ h2 {
 }
 @media (max-width: 410px) {
     .col-xs-9 h1 {
-        font-size: 25px;
+        font-size: 9vw;
     }
     .col-xs-9 h2 {
-        font-size: 16px;
+        font-size: 5vw;
     }
     .logo {
-        width: 20vw;
+        width: 23vw;
         border: 1px solid #be0026;
     }
 }
