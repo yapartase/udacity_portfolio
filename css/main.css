@@ -12,6 +12,15 @@ header h2 {
 #featured_work h3 {
   color: #023C6A;
 }
+#featured_work img {
+  width: 300px;
+}
+
+@media (max-width: 991px) {
+  #featured_work img {
+    width: 400px;
+  }
+}
 
 hr {
     border: 0;
