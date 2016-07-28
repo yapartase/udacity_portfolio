@@ -1,11 +1,18 @@
-h1 {
+header h1 {
     font-size: 36px;
+    color: #023C6A;
     padding: 0px;
 }
-h2 {
+header h2 {
     font-size: 20px;
+    color: #be0026;
     margin: auto;
 }
+
+#featured_work h3 {
+  color: #023C6A;
+}
+
 hr {
     border: 0;
     height: 1px;
