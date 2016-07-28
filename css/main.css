@@ -1,11 +1,11 @@
 body {
-  font-family: 'Roboto Mono';
+    font-family: 'Roboto Mono';
 }
-
 header h1 {
     font-size: 36px;
     color: #023C6A;
     padding: 0px;
+    font-weight: 700;
 }
 header h2 {
     font-size: 20px;
@@ -45,5 +45,11 @@ hr {
     .logo {
         width: 23vw;
         border: 1px solid #be0026;
+    }
+    #featured_work h3 {
+        font-size: 18px;
+    }
+    #featured_work h4 {
+        font-size: 16px;
     }
 }
