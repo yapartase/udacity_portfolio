@@ -8,11 +8,9 @@ header h2 {
     color: #be0026;
     margin: auto;
 }
-
 #featured_work h3 {
-  color: #023C6A;
+    color: #023C6A;
 }
-
 hr {
     border: 0;
     height: 1px;
@@ -30,12 +28,17 @@ hr {
     width: 100px;
     border: 1px solid #be0026;
 }
+.featured_box {
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+    padding: 5px;
+}
 @media (max-width: 410px) {
     .col-xs-9 h1 {
         font-size: 8vw;
     }
     .col-xs-9 h2 {
-        font-size: 5vw;
+        font-size: 4vw;
         margin-top: auto;
     }
     .logo {
